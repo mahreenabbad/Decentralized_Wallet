@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(32, 32, 32);
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}
+
+.Flex {
+  color: white;
+  background-image: linear-gradient(#a8c0ff, #3f2b96);
+  width: 600px;
+  height: 470px;
+  margin-top: 30px;
+  border-radius: 15px;
+  border: 2px solid #463497;
+  box-shadow: 0 0.1px 8px rgba(255, 255, 255, 0.465);
+}
+
+.welMargin {
+  color: white;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}
+
+.Account {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}

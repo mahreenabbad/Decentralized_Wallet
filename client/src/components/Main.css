@@ -1,0 +1,80 @@
+.conAc {
+    font-size: 19px;
+    margin-top: 20px;
+    color:#c2d2fc;
+}
+
+.acBal {
+    font-size: 19px;
+    color:#c2d2fc
+}
+
+.provider {
+    font-size: 19px;
+    color:aliceblue
+}
+
+.box {
+    margin-top: 35;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.receiver {
+    width: 337px;
+    height: 26px;
+    background-color: #c2d2fc;
+    border: 2px solid #463497;
+    border-radius: 4px;
+}
+
+.label1 {
+    flex-direction: column;
+    display: flex;
+    color: #c2d2fc;
+}
+
+.label {
+    flex-direction: column;
+    display: flex;
+    color:#c2d2fc
+}
+
+.innerBox {
+    width: 337px;
+    height: 32px;
+    background-color: #c2d2fc;
+    border: 2px solid #463497;
+    border-radius: 4px;
+}
+
+.btn {
+    font-size: 17px;
+    font-weight: 300px;
+
+    width: 100px;
+    height: 50px;
+    background-color: #c2d2fc;
+    border: 1px solid #463497;
+    border-radius: 8px;
+}
+
+.json {
+    color: white;
+    background-image: linear-gradient(#a8c0ff, #3f2b96);
+    width: 800px;
+    height: 180px;
+    margin-top: 35px;
+    border-radius: 10px;
+    border: 2px solid #463497;
+    box-shadow: 0 0.1px 8px rgba(255, 255, 255, 0.465);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    font-size: 14px;
+}
