@@ -5,6 +5,7 @@ import SendEther from "./components/SendEther"
 import Welcome from './components/Welcome'
 import './App.css'
 
+
 function App() {
   const [web3, setWeb3] = useState(null)
   const [account,setAccount] = useState(null)
